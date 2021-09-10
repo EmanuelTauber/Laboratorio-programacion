@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "nombre": "Emanuel",
+        "apellido": "Tauber",
+        "dni": "44875134"
+    },
+
+    {
+        "id": 1,
+        "nombre": "Emanuel",
+        "apellido": "Tauber",
+        "dni": "44875134"
+    },
+    
+    {
+        "id": 2,
+        "nombre": "Emanuel",
+        "apellido": "Tauber",
+        "dni": "44875134"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Emanuel",
+        "apellido": "Tauber",
+        "dni": "44875134"
+    }
+]
